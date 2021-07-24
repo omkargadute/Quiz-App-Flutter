@@ -1,6 +1,6 @@
 # Quiz App
 
-A Flutter project.
+A Quiz Application made with Flutter and is supported both on Android and IOS.
 
 ## Description
 
