@@ -12,7 +12,6 @@ This is my first project in flutter. The basic functionality of this app is done
 ---
 <div style = "display:inline;">
 <img src="./screenshots/sc1.png" height="600" width="300">
-<br>
-<br>
+
 <img src="./screenshots/sc2.png" height="600" width="300">
 </div>
