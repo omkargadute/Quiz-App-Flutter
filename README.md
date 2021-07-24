@@ -8,6 +8,6 @@ This is my first project in flutter. The basic functionality of this app is done
 
 ## Screenshots
 
-Sample Questions:
+### Sample Questions:
 ---
-<img src="./screenshots/sc1.png" height="200" width="200">
+<img src="./screenshots/sc1.png" height="800" width="200">
