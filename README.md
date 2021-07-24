@@ -9,4 +9,4 @@ This is my first project in flutter. The basic functionality of this app is done
 ## Screenshots
 
 Sample Questions
-![alt text](./screenshots/sc1.png)
+![alt text](./screenshots/sc1.png =100x2)
