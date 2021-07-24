@@ -14,4 +14,6 @@ This is my first project in flutter. The basic functionality of this app is done
 <img src="./screenshots/sc1.png" height="600" width="300">
 
 <img src="./screenshots/sc2.png" height="600" width="300">
+
+<img src="./screenshots/sc3.png" height="600" width="300">
 </div>
